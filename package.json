@@ -1,0 +1,19 @@
+{
+  "name": "pastebin-scraper-yara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.pvga.hu/d3n/pastebin-scraper-yara.git"
+  },
+  "author": "d3n",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "yara": "^2.2.0"
+  }
+}
